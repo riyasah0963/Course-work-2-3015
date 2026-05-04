@@ -33,6 +33,3 @@ project expects the public OpenGL bundle at:
 - Video speaking notes: `video_script.md`
 - Feature declaration wording: `declaration_form_wording.md`
 - AI usage log: `AI_USAGE_LOG.md`
-
-The declaration form still needs the real student name, public GitHub link, and
-unlisted YouTube link before final submission.
