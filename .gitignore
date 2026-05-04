@@ -1,0 +1,22 @@
+.vs/
+ipch/
+Debug/
+Release/
+x64/
+*.VC.db
+*.VC.opendb
+*.sdf
+*.suo
+*.user
+*.opensdf
+*.ilk
+*.iobj
+*.ipdb
+*.obj
+*.pdb
+*.tlog
+*.lastbuildstate
+*.recipe
+*.log
+*.zip
+COMP3015 Overview Assignment Specification 2025-2026.txt
